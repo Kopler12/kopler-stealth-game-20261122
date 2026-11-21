@@ -1,4 +1,6 @@
 [![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Kopler12/kopler-stealth-game-20261122/rank.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Kopler12/kopler-stealth-game-20261122/reward.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
 
 # Lantern Shadow — The Night Courier
 
